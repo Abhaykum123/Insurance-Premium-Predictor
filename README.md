@@ -63,6 +63,7 @@ Responsive Web Interface: Built with Streamlit and deployable locally or to the 
 ├── insurance.csv           # Dataset used for training
 ├── Insurance_Predictor.ipynb  # Jupyter Notebook: data prep + model building
 ├── data.json               # Prediction logs (auto-generated)
+├── Requirements.txt
 └── README.md               # Project documentation (you're here)
 ```
 ---
