@@ -1,0 +1,2 @@
+{"age": 65, "weight": 100.0, "height": 1.2, "income_lpa": 8.0, "smoker": true, "city": "Mumbai", "occupation": "retired", "bmi": 69.44444444444444, "lifestyle_risk": "high", "age_group": "senior", "city_tier": 1, "predicted_category": "High"}
+{"age": 32, "weight": 60.0, "height": 1.2, "income_lpa": 12.0, "smoker": false, "city": "Indore", "occupation": "student", "bmi": 41.66666666666667, "lifestyle_risk": "medium", "age_group": "adult", "city_tier": 2, "predicted_category": "Medium"}
